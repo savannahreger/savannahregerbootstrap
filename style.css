@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: #EBECF0;
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+	margin: auto;
+	width: 90%;
+}
+
+h1{
+	color: dodgerblue;
+	text-transform:capitalize;
+    font-variant:small-caps;
+    font-weight:bold;
+	font-size: 43px; 
+}
+
+p{
+	font-size: 18px;
+}
+
+img{
+	border: solid;
+	border-color: dodgerblue;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+hr{
+	margin-top: -20px;
+	margin-bottom: 50px;
+	background-color: dodgerblue;
+	opacity: 100%;
+}
+
+#skills ul{
+	list-style-type: '- ';
+}
+
+#skills h4{
+	margin-bottom: 15px;
+}
+
+#education ul{
+	list-style: square;
+}
+
+#education h4, ul{
+	margin-left: 40px;
+}
+
+#contact p{
+	word-break: break-word;
+	width: 250px;
+}
+
+#Name{
+	font-size: 100px;
+	text-align: center;
+	align-content: center;
+	
+}
+
+#sectionDivide{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
